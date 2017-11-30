@@ -16,7 +16,7 @@
 title: Clint Jang의 블로그
 email: jang.wangsu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  오늘하루도 즐거운 하루 되세요.
+  오늘도 즐거운 하루 되세요.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://clintjang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  clintjang
