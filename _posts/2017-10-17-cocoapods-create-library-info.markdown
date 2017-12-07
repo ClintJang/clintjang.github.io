@@ -42,8 +42,7 @@ git push -u origin master
 git remote add origin https://github.com/ClintJang/프로젝트명.git
 git push -u origin master
 
-</code></pre>
-<pre><code>
+
 .. 실제
 
 3.1. cd 프로젝트명의 폴더
@@ -102,6 +101,7 @@ git push -u origin master
 
 </code></pre>
 아래의 메시지를 보시면 성공!!! (If you see the message below, you will succeed !!!)
+<pre><code>
  🎉  Congrats
 
  🚀  프로젝트명("Project Name") (0.1.0) successfully published
@@ -109,6 +109,7 @@ git push -u origin master
  🌎  https://cocoapods.org/pods/프로젝트명("Project Name")
  👍  Tell your friends!
  
+ </code></pre>
  
  # end
  - Fun day!
