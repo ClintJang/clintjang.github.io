@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-10T18:55:04+09:00</updated><id>http://localhost:4000/</id><title type="html">Clint Jang의 블로그</title><subtitle>오늘도 즐거운 하루 되세요.</subtitle><entry><title type="html">iOS SwiftGen 라이브러리 사용 방법</title><link href="http://localhost:4000/2018/04/09/SwiftGen-Library-Info-in-iOS.html" rel="alternate" type="text/html" title="iOS SwiftGen 라이브러리 사용 방법" /><published>2018-04-09T12:12:12+09:00</published><updated>2018-04-09T12:12:12+09:00</updated><id>http://localhost:4000/2018/04/09/SwiftGen-Library-Info-in-iOS</id><content type="html" xml:base="http://localhost:4000/2018/04/09/SwiftGen-Library-Info-in-iOS.html">&lt;h1 id=&quot;swiftgen-셈플-소스-링크&quot;&gt;&lt;a href=&quot;https://github.com/ClintJang/sample-swiftgen&quot;&gt;SwiftGen 셈플 소스 링크&lt;/a&gt;&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-10T18:59:13+09:00</updated><id>http://localhost:4000/</id><title type="html">Clint Jang의 블로그</title><subtitle>오늘도 즐거운 하루 되세요.</subtitle><entry><title type="html">iOS SwiftGen 라이브러리 사용 방법</title><link href="http://localhost:4000/2018/04/09/SwiftGen-Library-Info-in-iOS.html" rel="alternate" type="text/html" title="iOS SwiftGen 라이브러리 사용 방법" /><published>2018-04-09T12:12:12+09:00</published><updated>2018-04-09T12:12:12+09:00</updated><id>http://localhost:4000/2018/04/09/SwiftGen-Library-Info-in-iOS</id><content type="html" xml:base="http://localhost:4000/2018/04/09/SwiftGen-Library-Info-in-iOS.html">&lt;h1 id=&quot;swiftgen-셈플-소스-링크&quot;&gt;&lt;a href=&quot;https://github.com/ClintJang/sample-swiftgen&quot;&gt;SwiftGen 셈플 소스 링크&lt;/a&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;상세한 내용은 &lt;a href=&quot;https://github.com/ClintJang/sample-swiftgen&quot;&gt;여기 링크&lt;/a&gt;를 클릭하세요.&lt;/li&gt;
 &lt;/ul&gt;
@@ -131,6 +131,9 @@ $ swiftgen ...
 &lt;p&gt;Useful information site in iOS.&lt;/p&gt;
 
 &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ClintJang/awesome-swift-korean-lecture&quot;&gt;훌륭한 Swift 세션 동영상, 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://pspdfkit.com/guides/ios/current/faq/finding-the-app-bundle-id/#toc_if-you-only-have-the-app-on-your-phone&quot;&gt;App Bundle ID 찾기&lt;/a&gt;
 https://pspdfkit.com/guides/ios/current/faq/finding-the-app-bundle-id/#toc_if-you-only-have-the-app-on-your-phone&lt;/p&gt;
