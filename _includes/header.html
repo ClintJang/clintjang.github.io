@@ -3,7 +3,7 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url }}">🐲 {{ site.title | escape }}</a>
   
     {% if page_paths %}
       <nav class="site-nav">
@@ -31,7 +31,7 @@
     
   </div>
   <div class="wrapper">
-      swift 삽질하며, 개발하고 있어요 😎
+      {{ site.subtitle | escape }}
   </div>
   
 </header>

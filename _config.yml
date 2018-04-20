@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Clint Jang의 개발 블로그
+subtitle: swift 삽질하며, 개발하고 있어요. 😎
 email: jang.wangsu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   오늘도 즐거운 하루 되세요.
