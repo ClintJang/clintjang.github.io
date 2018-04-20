@@ -1,5 +1,5 @@
 # clintjang.github.io
-[ClintJang Blog](clintjang.github.io) 를 꾸며보자~
+[ClintJang Blog](http://clintjang.github.io) 를 꾸며보자~
 
 # jekyll window에 셋팅하기
 > [제킬](https://jekyllrb-ko.github.io/)은 참 편하게 [github 홈페이지](https://pages.github.com/)를 생성해 주는 것 같습니다. 
