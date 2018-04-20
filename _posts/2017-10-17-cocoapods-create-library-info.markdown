@@ -5,9 +5,11 @@ date:   2017-10-18 21:00:00 +0900
 categories: 
 ---
 
+# [CocoaPods 다른 상세 Tips 링크](https://github.com/ClintJang/cocoapods-tips/blob/master/README.md) 
+- 상세한 내용은 [여기 링크](https://github.com/ClintJang/cocoapods-tips/blob/master/README.md)를 클릭하세요.
 
-## 코코아팟츠에 자신의 라이브러리 등록하기 
-## (Register your own library in CocoaPods )
+# 코코아팟츠에 자신의 라이브러리 등록하기 
+## Register your own library in CocoaPods
 - 2017년 10월 18일 테스트 진행했던 과정을 정리한 것입니다. (October 18, 2017 This is a summary of the testing process.)
 
 
