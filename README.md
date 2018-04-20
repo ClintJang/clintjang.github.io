@@ -67,3 +67,35 @@ or
 ```
 
 
+# jekyll 자주 사용하는 명령어
+> 자주 사용하는 명령어를 메모해 봅니다.
+
+- ./_site 에 현재 폴더의 내용으로 사이트를 생성합니다
+```
+> jekyll build
+```
+
+- 수동은 귀찮으니... 이걸 실행시켜 놓고 수정하죠. 
+- ./_site 에 현재 폴더의 내용으로 사이트를 생성하고, 변경사항을 감지하면 자동으로 다시 생성합니다.
+```
+> jekyll build --watch
+```
+
+- 개발용 서버가 http://localhost:4000/ 에서 구동됩니다
+```
+> jekyll serve
+```
+
+> 이렇게 로컬에 띄워놓고 만지작 만지막 소스를 조금씩 수정해 보고 있습니다. 
+
+# jekyll 에 GA를 적용할 수 있습니다. 
+> 구글 통계를 적용해서 몇번 사람들이 들어오긴 하는 구나 .. 라는 통계를 볼 수 있죠.. 셋팅한지 시간이 지나서.. 링크보고 해서 쉽게 했던 기억이 있습니다.
+
+- 링크 1 : https://rextarx.github.io/jekyll/2017/02/03/Applying_Google_Analytics_to_a_blog_using_Jekyll/
+- 링크 2 : http://hochulshin.com/google-analytics-jekyll-theme/
+- 링크 3 : http://loustler.io/etc/github_pages_blog_google_analytics/
+
+# jekyll 에 theme
+> 제길의 테마를 바꿔야 하나 고민하고 있습니다. 
+
+- http://jekyllthemes.org/ : 아직 고민중입니다. 시간될 때 조금씩 찾아보고 바꾸는 방법을 익혀 볼까 합니다. (아직)
