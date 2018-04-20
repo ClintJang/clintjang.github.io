@@ -6,7 +6,7 @@ categories:
 ---
 
 # [SwiftGen 셈플 소스 링크](https://github.com/ClintJang/sample-swiftgen) 
-- 상세한 내용은 [여기 링크](https://github.com/ClintJang/sample-swiftgen)를 클릭하세요.
+- 상세한 내용은 [여기 링크](https://github.com/ClintJang/sample-swiftgen)를 클릭하세요. 
 
 # SwiftGen 이란?
 
